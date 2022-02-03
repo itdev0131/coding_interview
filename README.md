@@ -1,3 +1,9 @@
+# Execution
+
+```
+node availability.js Maggie Joe Jordan
+```
+
 # Background
 
 Most calendar applications provide some kind of "meet with" feature where the user
